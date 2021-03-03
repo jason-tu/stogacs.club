@@ -1,0 +1,31 @@
+@import "~typeface-raleway/index.css";
+@import "~typeface-lato/index.css";
+
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+
+@import "~bootstrap/scss/bootstrap";
+@import "~animate.css/animate.min.css";
+@import "./style";
+
+* {
+  font-family: "Raleway", "Lato", sans-serif;
+}
+
+#rubric {
+  border-radius: 8px;
+}
+
+.rubriccol {
+  border-right: 2px solid black;
+}
+
+#rules {
+  border-radius: 8px;
+}
+
+#p-47-style {
+  color: #000;
+}

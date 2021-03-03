@@ -1,0 +1,1 @@
+(self.webpackChunkstogacs_club=self.webpackChunkstogacs_club||[]).push([[41],{5041:(a,e,s)=>{"use strict";s.r(e),s.d(e,{default:()=>c});const c=s.p+"0a85ad02b83a3ae55a52fe291e23bce8.jpg"}}]);
